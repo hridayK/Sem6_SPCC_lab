@@ -1,1 +1,2 @@
-# Sem6_SPCC_lab
+# Systems Programming and Compiler Construction Lab (SEM 6)
+1.) Lexer - Lexical Analyzer
