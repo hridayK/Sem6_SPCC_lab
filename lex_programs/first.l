@@ -3,7 +3,7 @@
 
 %}
 %%
-\n { printf("Enter pressed for a new line"); }
+\n { printf("Hello World"); }
 %%
 void main(){
 	yylex();
